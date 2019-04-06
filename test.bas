@@ -12,7 +12,7 @@ Dim count_year As Long
 
 last_row = Sheets("input").Cells(Sheets("input").Rows.Count, 2).End(xlUp).Row
 
-lcol = 19
+lcol = 20
 
 
 Do Until lrow = 1
